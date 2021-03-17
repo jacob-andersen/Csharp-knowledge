@@ -1,0 +1,16 @@
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\bin\Debug\net5.0\CounterApp.exe
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\bin\Debug\net5.0\CounterApp.deps.json
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\bin\Debug\net5.0\CounterApp.runtimeconfig.json
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\bin\Debug\net5.0\CounterApp.runtimeconfig.dev.json
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\bin\Debug\net5.0\CounterApp.dll
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\bin\Debug\net5.0\ref\CounterApp.dll
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\bin\Debug\net5.0\CounterApp.pdb
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\obj\Debug\net5.0\CounterApp.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\obj\Debug\net5.0\CounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\obj\Debug\net5.0\CounterApp.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\obj\Debug\net5.0\CounterApp.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\obj\Debug\net5.0\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\obj\Debug\net5.0\CounterApp.dll
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\obj\Debug\net5.0\ref\CounterApp.dll
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\obj\Debug\net5.0\CounterApp.pdb
+C:\Users\jacob\OneDrive\Desktop\C#-knowledge\CounterApp\obj\Debug\net5.0\CounterApp.genruntimeconfig.cache
